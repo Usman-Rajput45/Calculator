@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/88ed8a22-c889-42bc-91a2-8a5e7e1c0b27" />﻿# Calculator
+# Calculator
 
 Calculator Project
 
@@ -64,3 +64,4 @@ Feel free to fork this repository and contribute by adding new features or impro
 License
 
 This project is open-source and available under the MIT License.
+
